@@ -1,0 +1,361 @@
+date,id,content,username,filtered_tokens,preprocessed_text
+2023-04-01 14:30:11+00:00,1642172512598478852,"Ukraine yamshutumu kiongozi wa Kanisa la Orthodox kuiunga mkono Urusi
+https://t.co/0TLEOn3AFe https://t.co/6cGEA4pbsA",bbcswahili,"['ukrain', 'yamshutumu', 'kiongozi', 'kanisa', 'la', 'orthodox', 'kuiunga', 'mkono', 'urusi', 'https://t.co/0tleon3af', 'https://t.co/6cgea4pbsa']",ukrain yamshutumu kiongozi kanisa la orthodox kuiunga mkono urusi https://t.co/0tleon3af https://t.co/6cgea4pbsa
+2023-04-01 14:00:16+00:00,1642164980689641474,"Iran inaashiria kutekeleza sheria ya kuvaa hijab kwa lazima
+https://t.co/QfaQVsSU1S https://t.co/Pl1Gxo83Zf",bbcswahili,"['iran', 'inaashiria', 'kutekeleza', 'sheria', 'kuvaa', 'hijab', 'lazima', 'https://t.co/qfaqvssu1', 'https://t.co/pl1gxo83zf']",iran inaashiria kutekeleza sheria kuvaa hijab lazima https://t.co/qfaqvssu1 https://t.co/pl1gxo83zf
+2023-04-01 13:30:07+00:00,1642157394003210248,"Je 'Siku ya Wajinga' duniani ilianzaje?
+https://t.co/TdHwskzeec",bbcswahili,"['je', ""'siku"", ""wajinga'"", 'duniani', 'ilianzaje?', 'https://t.co/tdhwskzeec']",je 'siku wajinga' duniani ilianzaje? https://t.co/tdhwskzeec
+2023-04-01 13:00:12+00:00,1642149866796097539,"Wanasayansi waelezea hatari za kifo cha ghafla wakati wa tendo la ndoa
+https://t.co/vYMTyrSNiB",bbcswahili,"['wanasayansi', 'waelezea', 'hatari', 'kifo', 'cha', 'ghafla', 'wakati', 'tendo', 'la', 'ndoa', 'https://t.co/vymtyrsnib']",wanasayansi waelezea hatari kifo cha ghafla wakati tendo la ndoa https://t.co/vymtyrsnib
+2023-04-01 12:30:13+00:00,1642142322744864769,"'Bado niko hai' Papa Francis atania wakati alipotoka hospitalini
+https://t.co/kXhbfmCimv https://t.co/guNxpi1WTu",bbcswahili,"[""'bado"", 'niko', ""hai'"", 'papa', 'franci', 'atania', 'wakati', 'alipotoka', 'hospitalini', 'https://t.co/kxhbfmcimv', 'https://t.co/gunxpi1wtu']",'bado niko hai' papa franci atania wakati alipotoka hospitalini https://t.co/kxhbfmcimv https://t.co/gunxpi1wtu
+2023-04-01 12:00:15+00:00,1642134780039905286,"Ramadhan 2023: Baadhi ya matukio muhimu katika historia ya Uislamu katika mwezi wa Ramadhan
+https://t.co/ukI010HCSM",bbcswahili,"['ramadhan', '2023:', 'baadhi', 'matukio', 'muhimu', 'katika', 'historia', 'uislamu', 'katika', 'mwezi', 'ramadhan', 'https://t.co/uki010hcsm']",ramadhan 2023: baadhi matukio muhimu katika historia uislamu katika mwezi ramadhan https://t.co/uki010hcsm
+2023-04-01 11:30:07+00:00,1642127197467975680,"Mhalifu sugu Kenya ahukumiwa kifongo cha miaka 310 gerezani
+https://t.co/QAO2biGRl0 https://t.co/7d7fZMYCKO",bbcswahili,"['mhalifu', 'sugu', 'kenya', 'ahukumiwa', 'kifongo', 'cha', 'miaka', '310', 'gerezani', 'https://t.co/qao2bigrl0', 'https://t.co/7d7fzmycko']",mhalifu sugu kenya ahukumiwa kifongo cha miaka 310 gerezani https://t.co/qao2bigrl0 https://t.co/7d7fzmycko
+2023-04-01 11:00:10+00:00,1642119658651242497,"Ndugu wenye utata mtandaoni wahamishiwa kifungo cha nyumbani
+https://t.co/nezPtFgHOc https://t.co/wTFLUkbpUY",bbcswahili,"['ndugu', 'weny', 'utata', 'mtandaoni', 'wahamishiwa', 'kifungo', 'cha', 'nyumbani', 'https://t.co/nezptfghoc', 'https://t.co/wtflukbpuy']",ndugu weny utata mtandaoni wahamishiwa kifungo cha nyumbani https://t.co/nezptfghoc https://t.co/wtflukbpuy
+2023-04-01 10:40:56+00:00,1642114820412456963,"Urusi yatwaa urais wa Baraza la Usalama la Umoja wa Mataifa licha ya hasira ya Ukraine
+https://t.co/jSxr7pntSU https://t.co/qRFfbmTLoX",bbcswahili,"['urusi', 'yatwaa', 'urai', 'baraza', 'la', 'usalama', 'la', 'umoja', 'mataifa', 'licha', 'hasira', 'ukrain', 'https://t.co/jsxr7pntsu', 'https://t.co/qrffbmtlox']",urusi yatwaa urai baraza la usalama la umoja mataifa licha hasira ukrain https://t.co/jsxr7pntsu https://t.co/qrffbmtlox
+2023-04-01 10:00:14+00:00,1642104575502045184,"Jinsi madaktari wa Italia walivyodanganya kuhusu 'ugonjwa wa kuambukiza' ili kuwaokoa Wayahudi dhidi ya Wanazi
+https://t.co/Kb1UAssO77",bbcswahili,"['jinsi', 'madaktari', 'italia', 'walivyodanganya', 'kuhusu', ""'ugonjwa"", ""kuambukiza'"", 'ili', 'kuwaokoa', 'wayahudi', 'dhidi', 'wanazi', 'https://t.co/kb1uasso77']",jinsi madaktari italia walivyodanganya kuhusu 'ugonjwa kuambukiza' ili kuwaokoa wayahudi dhidi wanazi https://t.co/kb1uasso77
+2023-04-01 09:00:04+00:00,1642089436044247040,"Je, Wanaanga wanakula nini wakiwa angani? 
+https://t.co/cvkDOaGdVl",bbcswahili,"['je,', 'wanaanga', 'wanakula', 'nini', 'wakiwa', 'angani?', 'https://t.co/cvkdoagdvl']","je, wanaanga wanakula nini wakiwa angani? https://t.co/cvkdoagdvl"
+2023-04-01 08:30:02+00:00,1642081875865772035,"Chelsea nayo yajitosa kwa Osimhen, Bayern kwa Havertz na Barca kumrejesha Messi
+https://t.co/IeFtC4z5VJ https://t.co/dMujSSffX1",bbcswahili,"['chelsea', 'nayo', 'yajitosa', 'osimhen,', 'bayern', 'havertz', 'barca', 'kumrejesha', 'messi', 'https://t.co/ieftc4z5vj', 'https://t.co/dmujssffx1']","chelsea nayo yajitosa osimhen, bayern havertz barca kumrejesha messi https://t.co/ieftc4z5vj https://t.co/dmujssffx1"
+2023-04-01 07:00:13+00:00,1642059272904212480,"fahamu changamoto wanazopitia wakazi wa eneo hili
+
+https://t.co/QhaRYFSFHw",bbcswahili,"['fahamu', 'changamoto', 'wanazopitia', 'wakazi', 'eneo', 'hili', 'https://t.co/qharyfsfhw']",fahamu changamoto wanazopitia wakazi eneo hili https://t.co/qharyfsfhw
+2023-04-01 06:00:15+00:00,1642044184717582336,"Pablo Escobar, , aliingiza nchini kinyume cha sheria wanyama wa kigeni, wakiwemo viboko kadhaa, katika miaka ya 1980
+
+https://t.co/t2Tp9sqvCE",bbcswahili,"['pablo', 'escobar,', ',', 'aliingiza', 'nchini', 'kinyum', 'cha', 'sheria', 'wanyama', 'kigeni,', 'wakiwemo', 'viboko', 'kadhaa,', 'katika', 'miaka', '1980', 'https://t.co/t2tp9sqvc']","pablo escobar, , aliingiza nchini kinyum cha sheria wanyama kigeni, wakiwemo viboko kadhaa, katika miaka 1980 https://t.co/t2tp9sqvc"
+2023-04-01 05:00:17+00:00,1642029092273889281,"Je, ni rekodi gani nyingine za mabao anazokaribia kuziweka? Na yuko karibu kiasi gani na kuwa mshambuliaji mahiri zaidi katika msimu mmoja barani Ulaya?
+
+https://t.co/DjF7yduVvd",bbcswahili,"['je,', 'rekodi', 'gani', 'nyingin', 'mabao', 'anazokaribia', 'kuziweka?', 'yuko', 'karibu', 'kiasi', 'gani', 'kuwa', 'mshambuliaji', 'mahiri', 'katika', 'msimu', 'mmoja', 'barani', 'ulaya?', 'https://t.co/djf7yduvvd']","je, rekodi gani nyingin mabao anazokaribia kuziweka? yuko karibu kiasi gani kuwa mshambuliaji mahiri katika msimu mmoja barani ulaya? https://t.co/djf7yduvvd"
+2023-04-01 04:00:11+00:00,1642013965650653185,"""Baba yangu alisema: 'Sitaki kukuona tena. Wewe si mtoto wangu. Siwezi kuwa na mtoto kama wewe,' anasema Ali,
+
+https://t.co/AgxglPC2rQ",bbcswahili,"['""baba', 'alisema:', ""'sitaki"", 'kukuona', 'tena.', 'wew', 'si', 'mtoto', 'wangu.', 'siwezi', 'kuwa', 'mtoto', 'kama', ""wewe,'"", 'anasema', 'ali,', 'https://t.co/agxglpc2rq']","""baba alisema: 'sitaki kukuona tena. wew si mtoto wangu. siwezi kuwa mtoto kama wewe,' anasema ali, https://t.co/agxglpc2rq"
+2023-03-31 19:00:19+00:00,1641878103692660755,"Mkuu wa kikosi cha Wagner anayepigana dhidi ya Ukraine uko Bahkmut
+
+https://t.co/jDels0BI2P",bbcswahili,"['mkuu', 'kikosi', 'cha', 'wagner', 'anayepigana', 'dhidi', 'ukrain', 'uko', 'bahkmut', 'https://t.co/jdels0bi2p']",mkuu kikosi cha wagner anayepigana dhidi ukrain uko bahkmut https://t.co/jdels0bi2p
+2023-03-31 18:30:19+00:00,1641870554243162128,"Je umewahi kusikia utamaduni huu wa mjane kulala na maiti?
+
+https://t.co/hkFtc3rkij",bbcswahili,"['je', 'umewahi', 'kusikia', 'utamaduni', 'huu', 'mjane', 'kulala', 'maiti?', 'https://t.co/hkftc3rkij']",je umewahi kusikia utamaduni huu mjane kulala maiti? https://t.co/hkftc3rkij
+2023-03-31 18:00:02+00:00,1641862936191696897,"Je ni taifa gani linaloongoza kwa raia wanaomiliki bunduki nyingi duniani?
+
+https://t.co/6lym5A4eJ1",bbcswahili,"['je', 'taifa', 'gani', 'linaloongoza', 'raia', 'wanaomiliki', 'bunduki', 'nyingi', 'duniani?', 'https://t.co/6lym5a4ej1']",je taifa gani linaloongoza raia wanaomiliki bunduki nyingi duniani? https://t.co/6lym5a4ej1
+2023-03-31 17:30:09+00:00,1641855412159774757,"Kwa nini mataifa yenye nguvu duniani 'yanaipigania' Afrika?
+
+https://t.co/D2qC5w3Wvx https://t.co/pWmu7qeslQ",bbcswahili,"['nini', 'mataifa', 'yeny', 'nguvu', 'duniani', ""'yanaipigania'"", 'afrika?', 'https://t.co/d2qc5w3wvx', 'https://t.co/pwmu7qeslq']",nini mataifa yeny nguvu duniani 'yanaipigania' afrika? https://t.co/d2qc5w3wvx https://t.co/pwmu7qeslq
+2023-03-31 17:15:11+00:00,1641851646287151129,"Rais Ruto akashifu maandamano ya Muungano wa Azimio
+
+https://t.co/rH48rbRKW7 https://t.co/Zt0mTWfsMr",bbcswahili,"['rai', 'ruto', 'akashifu', 'maandamano', 'muungano', 'azimio', 'https://t.co/rh48rbrkw7', 'https://t.co/zt0mtwfsmr']",rai ruto akashifu maandamano muungano azimio https://t.co/rh48rbrkw7 https://t.co/zt0mtwfsmr
+2023-03-31 17:00:10+00:00,1641847867642880000,"fahamu sababu za Marekani kushindwa katika vita vya Vietnam
+
+https://t.co/s5Nx2LOjmk",bbcswahili,"['fahamu', 'sababu', 'marekani', 'kushindwa', 'katika', 'vita', 'vya', 'vietnam', 'https://t.co/s5nx2lojmk']",fahamu sababu marekani kushindwa katika vita vya vietnam https://t.co/s5nx2lojmk
+2023-03-31 16:30:12+00:00,1641840327181860876,"Kwanini Colombia inawahamisha viboko wa Pablo Escobar
+
+https://t.co/d12gSHXIJG",bbcswahili,"['kwanini', 'colombia', 'inawahamisha', 'viboko', 'pablo', 'escobar', 'https://t.co/d12gshxijg']",kwanini colombia inawahamisha viboko pablo escobar https://t.co/d12gshxijg
+2023-03-31 15:50:31+00:00,1641830340191834114,"Klabu ya Saudi Arabia Al Hilal inataka kumfanya  Lionel Messi, 35, kuwa mchezaji anayelipwa pesa nyingi zaidi duniani
+
+https://t.co/9ahTzY41MW",bbcswahili,"['klabu', 'saudi', 'arabia', 'al', 'hilal', 'inataka', 'kumfanya', 'lionel', 'messi,', '35,', 'kuwa', 'mchezaji', 'anayelipwa', 'pesa', 'nyingi', 'duniani', 'https://t.co/9ahtzy41mw']","klabu saudi arabia al hilal inataka kumfanya lionel messi, 35, kuwa mchezaji anayelipwa pesa nyingi duniani https://t.co/9ahtzy41mw"
+2023-03-31 15:30:05+00:00,1641825198184734722,"Je hatua hiyo itamzuia kiongozi huyo kuwania Urais Marekani?
+
+https://t.co/zPNB1PiyQ1",bbcswahili,"['je', 'hatua', 'hiyo', 'itamzuia', 'kiongozi', 'huyo', 'kuwania', 'urai', 'marekani?', 'https://t.co/zpnb1piyq1']",je hatua hiyo itamzuia kiongozi huyo kuwania urai marekani? https://t.co/zpnb1piyq1
+2023-03-31 15:05:13+00:00,1641818941352816645,"Polisi auawa Kenya baada ya kushambuliwa kwenye maandamano
+https://t.co/242Ua1F3kn https://t.co/02si99IDWj",bbcswahili,"['polisi', 'auawa', 'kenya', 'baada', 'kushambuliwa', 'kweny', 'maandamano', 'https://t.co/242ua1f3kn', 'https://t.co/02si99idwj']",polisi auawa kenya baada kushambuliwa kweny maandamano https://t.co/242ua1f3kn https://t.co/02si99idwj
+2023-03-31 14:30:08+00:00,1641810112070180864,"Makamu wa Rais wa Sudan Kusini akataa uteuzi wa waziri mpya wa ulinzi
+https://t.co/Q2IAvwBacH https://t.co/NejpO5fb6b",bbcswahili,"['makamu', 'rai', 'sudan', 'kusini', 'akataa', 'uteuzi', 'waziri', 'mpya', 'ulinzi', 'https://t.co/q2iavwbach', 'https://t.co/nejpo5fb6b']",makamu rai sudan kusini akataa uteuzi waziri mpya ulinzi https://t.co/q2iavwbach https://t.co/nejpo5fb6b
+2023-03-31 14:00:11+00:00,1641802572079013889,"Bahrain yawafunga wanaume kwa mjadala wa YouTube kuhusu Uislamu
+https://t.co/pfZYKpKfNz https://t.co/RKOABubDor",bbcswahili,"['bahrain', 'yawafunga', 'wanaum', 'mjadala', 'youtub', 'kuhusu', 'uislamu', 'https://t.co/pfzykpkfnz', 'https://t.co/rkoabubdor']",bahrain yawafunga wanaum mjadala youtub kuhusu uislamu https://t.co/pfzykpkfnz https://t.co/rkoabubdor
+2023-03-31 13:30:02+00:00,1641794988068548611,"Mfahamu mwanamfalme mpya wa Abu Dhabi 
+
+https://t.co/LO0k2NwC0T",bbcswahili,"['mfahamu', 'mwanamfalm', 'mpya', 'abu', 'dhabi', 'https://t.co/lo0k2nwc0t']",mfahamu mwanamfalm mpya abu dhabi https://t.co/lo0k2nwc0t
+2023-03-31 13:00:09+00:00,1641787463982039042,"Waandishi wa habari Kenya lazima walindwe - Marekani
+https://t.co/Q9OBNyUIac https://t.co/iR10AlCNwm",bbcswahili,"['waandishi', 'habari', 'kenya', 'lazima', 'walindw', '-', 'marekani', 'https://t.co/q9obnyuiac', 'https://t.co/ir10alcnwm']",waandishi habari kenya lazima walindw - marekani https://t.co/q9obnyuiac https://t.co/ir10alcnwm
+2023-03-31 12:30:13+00:00,1641779933482479617,"Rekodi za matukio ya sakata la Stormy Daniels na Trump
+https://t.co/XJAThovGkR https://t.co/tffq9iN53R",bbcswahili,"['rekodi', 'matukio', 'sakata', 'la', 'stormi', 'daniel', 'trump', 'https://t.co/xjathovgkr', 'https://t.co/tffq9in53r']",rekodi matukio sakata la stormi daniel trump https://t.co/xjathovgkr https://t.co/tffq9in53r
+2023-03-31 12:00:06+00:00,1641772355637714947,"Je ni kweli vikosi vya Marekani havikuwa na vifaa vya kutosha kupigana vita hivyo?
+
+https://t.co/gYIMi7ocKY",bbcswahili,"['je', 'kweli', 'vikosi', 'vya', 'marekani', 'havikuwa', 'vifaa', 'vya', 'kutosha', 'kupigana', 'vita', 'hivyo?', 'https://t.co/gyimi7ocki']",je kweli vikosi vya marekani havikuwa vifaa vya kutosha kupigana vita hivyo? https://t.co/gyimi7ocki
+2023-03-31 11:30:11+00:00,1641764826950115332,"je ni kwanini raia wa mataifa haya wanamiliki bunduki nyingi zaidi duniani?
+
+https://t.co/8a8caD8tZp",bbcswahili,"['je', 'kwanini', 'raia', 'mataifa', 'haya', 'wanamiliki', 'bunduki', 'nyingi', 'duniani?', 'https://t.co/8a8cad8tzp']",je kwanini raia mataifa haya wanamiliki bunduki nyingi duniani? https://t.co/8a8cad8tzp
+2023-03-31 10:30:09+00:00,1641749717255180288,"Uturuki yaidhinisha Finland kuwa mwaanachama wa Nato
+https://t.co/OjL3k9uddD https://t.co/Ydt5HhLu4b",bbcswahili,"['uturuki', 'yaidhinisha', 'finland', 'kuwa', 'mwaanachama', 'nato', 'https://t.co/ojl3k9uddd', 'https://t.co/ydt5hhlu4b']",uturuki yaidhinisha finland kuwa mwaanachama nato https://t.co/ojl3k9uddd https://t.co/ydt5hhlu4b
+2023-03-31 10:05:06+00:00,1641743412696055808,"Je ni sababu gani zinazoweza kukuua wakati wa tendo la ngono?
+
+https://t.co/O6dcxMZIe7",bbcswahili,"['je', 'sababu', 'gani', 'zinazoweza', 'kukuua', 'wakati', 'tendo', 'la', 'ngono?', 'https://t.co/o6dcxmzie7']",je sababu gani zinazoweza kukuua wakati tendo la ngono? https://t.co/o6dcxmzie7
+2023-03-31 09:30:04+00:00,1641734597397422081,"Nancy Pelosi: 'Hakuna aliye juu ya sheria'
+https://t.co/Y2et28wwMo https://t.co/ae7rxtAZBp",bbcswahili,"['nanci', 'pelosi:', ""'hakuna"", 'aliy', 'juu', ""sheria'"", 'https://t.co/y2et28wwmo', 'https://t.co/ae7rxtazbp']",nanci pelosi: 'hakuna aliy juu sheria' https://t.co/y2et28wwmo https://t.co/ae7rxtazbp
+2023-03-31 09:00:09+00:00,1641727067459923969,"Kiongozi wa upinzani Kenya Raila Odinga adai jaribio la 'mauaji' dhidi yake
+https://t.co/NSiE0vAR9x https://t.co/pLMI7J34fG",bbcswahili,"['kiongozi', 'upinzani', 'kenya', 'raila', 'odinga', 'adai', 'jaribio', 'la', ""'mauaji'"", 'dhidi', 'https://t.co/nsie0var9x', 'https://t.co/plmi7j34fg']",kiongozi upinzani kenya raila odinga adai jaribio la 'mauaji' dhidi https://t.co/nsie0var9x https://t.co/plmi7j34fg
+2023-03-31 08:30:08+00:00,1641719513778466817,"Uganda yarejelea mkataba wa wafanyikazi na Saudi Arabia
+https://t.co/icHuJ34p3u https://t.co/u0N9RUM72h",bbcswahili,"['uganda', 'yarejelea', 'mkataba', 'wafanyikazi', 'saudi', 'arabia', 'https://t.co/ichuj34p3u', 'https://t.co/u0n9rum72h']",uganda yarejelea mkataba wafanyikazi saudi arabia https://t.co/ichuj34p3u https://t.co/u0n9rum72h
+2023-03-31 08:00:15+00:00,1641711991801643008,"Watu 35 wafariki baada ya kutumbukia kwenye kisima India
+https://t.co/D60L9TjgPS https://t.co/rrAZHV8ANw",bbcswahili,"['watu', '35', 'wafariki', 'baada', 'kutumbukia', 'kweny', 'kisima', 'india', 'https://t.co/d60l9tjgp', 'https://t.co/rrazhv8anw']",watu 35 wafariki baada kutumbukia kweny kisima india https://t.co/d60l9tjgp https://t.co/rrazhv8anw
+2023-03-31 07:30:06+00:00,1641704407849918464,"DR Congo: Waasi wa M23 kukabidhi mji muhimu kwa vikosi vya Uganda
+https://t.co/qkaqEDEOIJ https://t.co/PUYyFA5KSY",bbcswahili,"['dr', 'congo:', 'waasi', 'm23', 'kukabidhi', 'mji', 'muhimu', 'vikosi', 'vya', 'uganda', 'https://t.co/qkaqedeoij', 'https://t.co/puyyfa5ksi']",dr congo: waasi m23 kukabidhi mji muhimu vikosi vya uganda https://t.co/qkaqedeoij https://t.co/puyyfa5ksi
+2023-03-31 07:00:04+00:00,1641696847822561282,"Makamu wa rais wa Marekani apongeza mageuzi ya demokrasia Tanzania
+https://t.co/5Vzjfjj5dA https://t.co/ttuZ03ZkaI",bbcswahili,"['makamu', 'rai', 'marekani', 'apongeza', 'mageuzi', 'demokrasia', 'tanzania', 'https://t.co/5vzjfjj5da', 'https://t.co/ttuz03zkai']",makamu rai marekani apongeza mageuzi demokrasia tanzania https://t.co/5vzjfjj5da https://t.co/ttuz03zkai
+2023-03-31 06:30:10+00:00,1641689322800676865,"Maandamano Kenya: Wanahabari sita wajeruhiwa katika visa tofauti vya maandamano ya upinzani
+https://t.co/6Jttjmaaru https://t.co/ZcoxGV8yKM",bbcswahili,"['maandamano', 'kenya:', 'wanahabari', 'sita', 'wajeruhiwa', 'katika', 'visa', 'tofauti', 'vya', 'maandamano', 'upinzani', 'https://t.co/6jttjmaaru', 'https://t.co/zcoxgv8ykm']",maandamano kenya: wanahabari sita wajeruhiwa katika visa tofauti vya maandamano upinzani https://t.co/6jttjmaaru https://t.co/zcoxgv8ykm
+2023-03-31 06:02:27+00:00,1641682346486435842,"Dunia imekumbwa na nini mbona kila pembe kuna maandamano?
+https://t.co/5XFu4s7V33",bbcswahili,"['dunia', 'imekumbwa', 'nini', 'mbona', 'kila', 'pemb', 'kuna', 'maandamano?', 'https://t.co/5xfu4s7v33']",dunia imekumbwa nini mbona kila pemb kuna maandamano? https://t.co/5xfu4s7v33
+2023-03-31 05:30:06+00:00,1641674207204372481,"Oscar Pistorius: Uwezekano wa kuachiliwa mapema kutazingatiwa
+https://t.co/nqkmcm7o65 https://t.co/5jMR79XdwI",bbcswahili,"['oscar', 'pistorius:', 'uwezekano', 'kuachiliwa', 'mapema', 'kutazingatiwa', 'https://t.co/nqkmcm7o65', 'https://t.co/5jmr79xdwi']",oscar pistorius: uwezekano kuachiliwa mapema kutazingatiwa https://t.co/nqkmcm7o65 https://t.co/5jmr79xdwi
+2023-03-31 05:00:06+00:00,1641666657268449282,"Ni nini kilitokea kati ya Stormy Daniels na Donald Trump?
+https://t.co/RFQ47OSfzj",bbcswahili,"['nini', 'kilitokea', 'kati', 'stormi', 'daniel', 'donald', 'trump?', 'https://t.co/rfq47osfzj']",nini kilitokea kati stormi daniel donald trump? https://t.co/rfq47osfzj
+2023-03-31 04:30:06+00:00,1641659106120421378,"Stormy Daniels  aliye kati kati ya mashitaka dhidi ya Trump awashukuru wafuasi wake
+https://t.co/RdD3Cbg6Ci https://t.co/7by87Wp7sL",bbcswahili,"['stormi', 'daniel', 'aliy', 'kati', 'kati', 'mashitaka', 'dhidi', 'trump', 'awashukuru', 'wafuasi', 'https://t.co/rdd3cbg6ci', 'https://t.co/7by87wp7sl']",stormi daniel aliy kati kati mashitaka dhidi trump awashukuru wafuasi https://t.co/rdd3cbg6ci https://t.co/7by87wp7sl
+2023-03-31 04:00:04+00:00,1641651551130247168,"Urusi kutoa chakula ili kupewa silaha za Korea Kaskazini - Marekani 
+https://t.co/UKXtkoGCxA https://t.co/krY439Elw3",bbcswahili,"['urusi', 'kutoa', 'chakula', 'ili', 'kupewa', 'silaha', 'korea', 'kaskazini', '-', 'marekani', 'https://t.co/ukxtkogcxa', 'https://t.co/kry439elw3']",urusi kutoa chakula ili kupewa silaha korea kaskazini - marekani https://t.co/ukxtkogcxa https://t.co/kry439elw3
+2023-03-31 03:30:05+00:00,1641644003362844672,"Chelsea wamuweka Mount sokoni kwa £70mil, Kudus mbadala wa Harry Kane Man United
+https://t.co/fHV8ZSImwT",bbcswahili,"['chelsea', 'wamuweka', 'mount', 'sokoni', '£70mil,', 'kudu', 'mbadala', 'harri', 'kane', 'man', 'unit', 'https://t.co/fhv8zsimwt']","chelsea wamuweka mount sokoni £70mil, kudu mbadala harri kane man unit https://t.co/fhv8zsimwt"
+2023-03-31 02:59:08+00:00,1641636214175412225,"Donald Trump Kukamatwa : Rais wa zamani wa Marekani kushtakiwa  kwa kutoa pesa za  kununua kimya cha muigizaji wa filamu za utupu 
+https://t.co/Sbk4o2gUCg",bbcswahili,"['donald', 'trump', 'kukamatwa', ':', 'rai', 'zamani', 'marekani', 'kushtakiwa', 'kutoa', 'pesa', 'kununua', 'kimya', 'cha', 'muigizaji', 'filamu', 'utupu', 'https://t.co/sbk4o2gucg']",donald trump kukamatwa : rai zamani marekani kushtakiwa kutoa pesa kununua kimya cha muigizaji filamu utupu https://t.co/sbk4o2gucg
+2023-03-30 19:49:03+00:00,1641527981192388609,"Rais Samia asema Tanzania iko tayari kwa majadiliano na Marekani ya Visa ya muda mrefu
+https://t.co/7HwtkFtlAB",bbcswahili,"['rai', 'samia', 'asema', 'tanzania', 'iko', 'tayari', 'majadiliano', 'marekani', 'visa', 'muda', 'mrefu', 'https://t.co/7hwtkftlab']",rai samia asema tanzania iko tayari majadiliano marekani visa muda mrefu https://t.co/7hwtkftlab
+2023-03-30 19:30:08+00:00,1641523220334497793,"Alikwenda jela bila kufahamu hukumu yake na haikutokea kwake kuwa na hamu ya kumuuliza mtu yeyote juu ya hukumu hiyo
+
+https://t.co/lG5J5RyTvT",bbcswahili,"['alikwenda', 'jela', 'bila', 'kufahamu', 'hukumu', 'haikutokea', 'kwake', 'kuwa', 'hamu', 'kumuuliza', 'mtu', 'yeyot', 'juu', 'hukumu', 'hiyo', 'https://t.co/lg5j5rytvt']",alikwenda jela bila kufahamu hukumu haikutokea kwake kuwa hamu kumuuliza mtu yeyot juu hukumu hiyo https://t.co/lg5j5rytvt
+2023-03-30 19:00:12+00:00,1641515689310601216,"Je chanzo cha mzozo kati ya Uingereza na Ufaransa ni nini?
+
+https://t.co/xlmfPEQUvM",bbcswahili,"['je', 'chanzo', 'cha', 'mzozo', 'kati', 'uingereza', 'ufaransa', 'nini?', 'https://t.co/xlmfpequvm']",je chanzo cha mzozo kati uingereza ufaransa nini? https://t.co/xlmfpequvm
+2023-03-30 18:30:48+00:00,1641508288247259161,"Ujumbe wa Marekani ukiongozwa na Seneta Chris Coons umekutana na Naibu wa rais Gachagua na Raila Odinga jijini Nairobi kujadili hali ilivyo nchini Kenya
+
+https://t.co/Zdn3i7ILCf",bbcswahili,"['ujumb', 'marekani', 'ukiongozwa', 'seneta', 'chri', 'coon', 'umekutana', 'naibu', 'rai', 'gachagua', 'raila', 'odinga', 'jijini', 'nairobi', 'kujadili', 'hali', 'ilivyo', 'nchini', 'kenya', 'https://t.co/zdn3i7ilcf']",ujumb marekani ukiongozwa seneta chri coon umekutana naibu rai gachagua raila odinga jijini nairobi kujadili hali ilivyo nchini kenya https://t.co/zdn3i7ilcf
+2023-03-30 18:00:19+00:00,1641500619327393795,"Je, ICC inaweza kumkamata Putin?
+
+https://t.co/76NAnAVRRP",bbcswahili,"['je,', 'icc', 'inaweza', 'kumkamata', 'putin?', 'https://t.co/76nanavrrp']","je, icc inaweza kumkamata putin? https://t.co/76nanavrrp"
+2023-03-30 17:30:16+00:00,1641493057315930112,"Kipa wa Hispania David de Gea, 32, amekataa ofa ya kwanza ya Manchester United ya kandarasi mpya.
+
+https://t.co/mDGYoNYNTS",bbcswahili,"['kipa', 'hispania', 'david', 'de', 'gea,', '32,', 'amekataa', 'ofa', 'kwanza', 'manchest', 'unit', 'kandarasi', 'mpya.', 'https://t.co/mdgyonynt']","kipa hispania david de gea, 32, amekataa ofa kwanza manchest unit kandarasi mpya. https://t.co/mdgyonynt"
+2023-03-30 17:00:11+00:00,1641485485552857089,"Maandamano Kenya: Waandamanaji Wateketeza Ofisi za chama tawala cha UDA Siaya
+
+https://t.co/v8KCix8X98 https://t.co/nbYXN9qme2",bbcswahili,"['maandamano', 'kenya:', 'waandamanaji', 'wateketeza', 'ofisi', 'chama', 'tawala', 'cha', 'uda', 'siaya', 'https://t.co/v8kcix8x98', 'https://t.co/nbyxn9qme2']",maandamano kenya: waandamanaji wateketeza ofisi chama tawala cha uda siaya https://t.co/v8kcix8x98 https://t.co/nbyxn9qme2
+2023-03-30 16:30:16+00:00,1641477954843693056,"Kimbunga Freddy: Malawi kutangaza watu 537 waliopotea wamekufa
+
+https://t.co/y32owb15tk https://t.co/p4dUDVPst9",bbcswahili,"['kimbunga', 'freddy:', 'malawi', 'kutangaza', 'watu', '537', 'waliopotea', 'wamekufa', 'https://t.co/y32owb15tk', 'https://t.co/p4dudvpst9']",kimbunga freddy: malawi kutangaza watu 537 waliopotea wamekufa https://t.co/y32owb15tk https://t.co/p4dudvpst9
+2023-03-30 16:00:10+00:00,1641470381201543169,"Utafiti wabaini waswahili wana asili ya kiajemi
+
+https://t.co/imfRJtM7wN https://t.co/aiHP8MEQG7",bbcswahili,"['utaf', 'wabaini', 'waswahili', 'wana', 'asili', 'kiajemi', 'https://t.co/imfrjtm7wn', 'https://t.co/aihp8meqg7']",utaf wabaini waswahili wana asili kiajemi https://t.co/imfrjtm7wn https://t.co/aihp8meqg7
+2023-03-30 15:30:07+00:00,1641462819261661184,Unazijua sababu zilizoifanya Marekani kushindwa vita ya Vietnam? hizi hapa 7 https://t.co/oIoCRwae7w,bbcswahili,"['unazijua', 'sababu', 'zilizoifanya', 'marekani', 'kushindwa', 'vita', 'vietnam?', 'hizi', 'hapa', '7', 'https://t.co/oiocrwae7w']",unazijua sababu zilizoifanya marekani kushindwa vita vietnam? hizi hapa 7 https://t.co/oiocrwae7w
+2023-03-30 15:00:05+00:00,1641455258780983298,"""Alikuwa akinitafuta ili anipige lakini mama aliniambia nijifiche, sikuwa na mpango, lakini nilijua lazima niondoke nyumbani.""
+
+https://t.co/VzTJ8dPALc",bbcswahili,"['""alikuwa', 'akinitafuta', 'ili', 'anipig', 'lakini', 'mama', 'aliniambia', 'nijifiche,', 'sikuwa', 'mpango,', 'lakini', 'nilijua', 'lazima', 'niondok', 'nyumbani.""', 'https://t.co/vztj8dpalc']","""alikuwa akinitafuta ili anipig lakini mama aliniambia nijifiche, sikuwa mpango, lakini nilijua lazima niondok nyumbani."" https://t.co/vztj8dpalc"
+2023-03-30 14:33:56+00:00,1641448677645623298,"Unazijua sababu zilizoifanya Marekani kushindwa vita ya Vietnam? hizi hapa 7
+
+https://t.co/XFFFpSLias",bbcswahili,"['unazijua', 'sababu', 'zilizoifanya', 'marekani', 'kushindwa', 'vita', 'vietnam?', 'hizi', 'hapa', '7', 'https://t.co/xfffpslia']",unazijua sababu zilizoifanya marekani kushindwa vita vietnam? hizi hapa 7 https://t.co/xfffpslia
+2023-03-30 14:30:13+00:00,1641447744018726919,"Tanzania na Malawi: Je ni nini hsawa ambacho kimekuwa kikizozaniwa kati ya mataifa haya mawili?
+
+https://t.co/0fU2of7zrs",bbcswahili,"['tanzania', 'malawi:', 'je', 'nini', 'hsawa', 'ambacho', 'kimekuwa', 'kikizozaniwa', 'kati', 'mataifa', 'haya', 'mawili?', 'https://t.co/0fu2of7zr']",tanzania malawi: je nini hsawa ambacho kimekuwa kikizozaniwa kati mataifa haya mawili? https://t.co/0fu2of7zr
+2023-03-30 14:00:21+00:00,1641440226055950340,"Maandamno Kenya: Usalama waimarishwa nyumbani kwa rais mstaafu Uhuru Kenyatta
+
+https://t.co/5iYQO7iNae https://t.co/mXjBidX7bI",bbcswahili,"['maandamno', 'kenya:', 'usalama', 'waimarishwa', 'nyumbani', 'rai', 'mstaafu', 'uhuru', 'kenyatta', 'https://t.co/5iyqo7ina', 'https://t.co/mxjbidx7bi']",maandamno kenya: usalama waimarishwa nyumbani rai mstaafu uhuru kenyatta https://t.co/5iyqo7ina https://t.co/mxjbidx7bi
+2023-03-30 13:30:07+00:00,1641432617932161024,"Utafiti wanaonyesha kuwa kunusa harufu za mwili wa watu wengine kunaweza kusaidia katika kutibu wasiwasi wa kijamii
+
+https://t.co/w868yQ8nT9",bbcswahili,"['utaf', 'wanaonyesha', 'kuwa', 'kunusa', 'harufu', 'mwili', 'watu', 'wengin', 'kunaweza', 'kusaidia', 'katika', 'kutibu', 'wasiwasi', 'kijamii', 'https://t.co/w868yq8nt9']",utaf wanaonyesha kuwa kunusa harufu mwili watu wengin kunaweza kusaidia katika kutibu wasiwasi kijamii https://t.co/w868yq8nt9
+2023-03-30 13:05:28+00:00,1641426414485241856,"Marekani kuipatia Tanzania msaada wa $560m
+
+https://t.co/VEdnTXLn4X https://t.co/MOlMOgSNvz",bbcswahili,"['marekani', 'kuipatia', 'tanzania', 'msaada', '$560m', 'https://t.co/vedntxln4x', 'https://t.co/molmogsnvz']",marekani kuipatia tanzania msaada $560m https://t.co/vedntxln4x https://t.co/molmogsnvz
+2023-03-30 12:30:11+00:00,1641417535529558018,"Raila Odinga aongoza maandamano ya kupinga serikali Nairobi
+
+https://t.co/b18na2ISX8 https://t.co/MUJGFwCybK",bbcswahili,"['raila', 'odinga', 'aongoza', 'maandamano', 'kupinga', 'serikali', 'nairobi', 'https://t.co/b18na2isx8', 'https://t.co/mujgfwcybk']",raila odinga aongoza maandamano kupinga serikali nairobi https://t.co/b18na2isx8 https://t.co/mujgfwcybk
+2023-03-30 12:19:49+00:00,1641414928555819009,"Watu 12 wamedaiwa kufariki katika ajali mbaya ya barabara ya Naivasha - Nakuru Kenya
+
+https://t.co/wkm7a7i9wF https://t.co/ezseOjxEh3",bbcswahili,"['watu', '12', 'wamedaiwa', 'kufariki', 'katika', 'ajali', 'mbaya', 'barabara', 'naivasha', '-', 'nakuru', 'kenya', 'https://t.co/wkm7a7i9wf', 'https://t.co/ezseojxeh3']",watu 12 wamedaiwa kufariki katika ajali mbaya barabara naivasha - nakuru kenya https://t.co/wkm7a7i9wf https://t.co/ezseojxeh3
+2023-03-30 11:30:08+00:00,1641402423494209539,"Mkongwe wa miaka 86 aweka rekodi ya kunyanyua vitu vizito
+https://t.co/Gwc6E4kCSh https://t.co/20bEMoqJvl",bbcswahili,"['mkongw', 'miaka', '86', 'aweka', 'rekodi', 'kunyanyua', 'vitu', 'vizito', 'https://t.co/gwc6e4kcsh', 'https://t.co/20bemoqjvl']",mkongw miaka 86 aweka rekodi kunyanyua vitu vizito https://t.co/gwc6e4kcsh https://t.co/20bemoqjvl
+2023-03-30 11:00:01+00:00,1641394847205539843,"Je ni kwanini kuna uhsama kati ya Marekani na Urusi, Saudia na Iran na China na Japan?
+
+https://t.co/urXzXp9ORa",bbcswahili,"['je', 'kwanini', 'kuna', 'uhsama', 'kati', 'marekani', 'urusi,', 'saudia', 'iran', 'china', 'japan?', 'https://t.co/urxzxp9ora']","je kwanini kuna uhsama kati marekani urusi, saudia iran china japan? https://t.co/urxzxp9ora"
+2023-03-30 09:30:13+00:00,1641372245053394944,"Jair Bolsonaro yuko njiani kurejea Brazil kwa mara ya kwanza tangu ghasia za Januari 8
+https://t.co/AVlixoamLd https://t.co/x93Yvy7fIf",bbcswahili,"['jair', 'bolsonaro', 'yuko', 'njiani', 'kurejea', 'brazil', 'mara', 'kwanza', 'tangu', 'ghasia', 'januari', '8', 'https://t.co/avlixoamld', 'https://t.co/x93yvy7fif']",jair bolsonaro yuko njiani kurejea brazil mara kwanza tangu ghasia januari 8 https://t.co/avlixoamld https://t.co/x93yvy7fif
+2023-03-30 09:11:42+00:00,1641367585571717121,"Wanabenki wapatikana na hatia ya kumsaidia rafiki wa Putin
+https://t.co/r8Sj6iY2yw https://t.co/zwS5tQvB9f",bbcswahili,"['wanabenki', 'wapatikana', 'hatia', 'kumsaidia', 'rafiki', 'putin', 'https://t.co/r8sj6iy2yw', 'https://t.co/zws5tqvb9f']",wanabenki wapatikana hatia kumsaidia rafiki putin https://t.co/r8sj6iy2yw https://t.co/zws5tqvb9f
+2023-03-30 08:30:08+00:00,1641357125929631744,"Familia yetu hatimaye imeungana tena - binti wa Rusesabagina
+https://t.co/hc73oK12w3 https://t.co/44KtmaEzx7",bbcswahili,"['familia', 'yetu', 'hatimay', 'imeungana', 'tena', '-', 'binti', 'rusesabagina', 'https://t.co/hc73ok12w3', 'https://t.co/44ktmaezx7']",familia yetu hatimay imeungana tena - binti rusesabagina https://t.co/hc73ok12w3 https://t.co/44ktmaezx7
+2023-03-30 08:00:06+00:00,1641349569249198080,"Polisi watanda Nairobi huku upinzani nchini Kenya ukikaidi marufuku ya maandamano
+https://t.co/gJn5MsHHzp https://t.co/60xoUIHAql",bbcswahili,"['polisi', 'watanda', 'nairobi', 'huku', 'upinzani', 'nchini', 'kenya', 'ukikaidi', 'marufuku', 'maandamano', 'https://t.co/gjn5mshhzp', 'https://t.co/60xouihaql']",polisi watanda nairobi huku upinzani nchini kenya ukikaidi marufuku maandamano https://t.co/gjn5mshhzp https://t.co/60xouihaql
+2023-03-30 07:30:08+00:00,1641342027408326656,"Watu kadhaa wahofiwa kufa baada ya kugongana kwa helikopta za kijeshi Marekani
+https://t.co/n7vnCLE2cA https://t.co/aSIHrS3Dxx",bbcswahili,"['watu', 'kadhaa', 'wahofiwa', 'kufa', 'baada', 'kugongana', 'helikopta', 'kijeshi', 'marekani', 'https://t.co/n7vncle2ca', 'https://t.co/asihrs3dxx']",watu kadhaa wahofiwa kufa baada kugongana helikopta kijeshi marekani https://t.co/n7vncle2ca https://t.co/asihrs3dxx
+2023-03-30 06:30:08+00:00,1641326927955873793,"Wanaharakati wayataka makampuni ya uchimbaji madini kuwalipa zaidi Wachimbaji DRC
+https://t.co/UTTEeFWbp0 https://t.co/pIzwGCHVDG",bbcswahili,"['wanaharakati', 'wayataka', 'makampuni', 'uchimbaji', 'madini', 'kuwalipa', 'wachimbaji', 'drc', 'https://t.co/utteefwbp0', 'https://t.co/pizwgchvdg']",wanaharakati wayataka makampuni uchimbaji madini kuwalipa wachimbaji drc https://t.co/utteefwbp0 https://t.co/pizwgchvdg
+2023-03-30 06:00:12+00:00,1641319393253552128,"Makamu wa rais Kamala Harris kujadili vita vya Ukraine na rais wa Tanzania,na msimamo wa nchi hiyo kutofungamana na upande wowote katika mzozo huo
+https://t.co/mHe6VMKsxQ https://t.co/TueHNCxh4g",bbcswahili,"['makamu', 'rai', 'kamala', 'harri', 'kujadili', 'vita', 'vya', 'ukrain', 'rai', 'tanzania,na', 'msimamo', 'nchi', 'hiyo', 'kutofungamana', 'upand', 'wowot', 'katika', 'mzozo', 'huo', 'https://t.co/mhe6vmksxq', 'https://t.co/tuehncxh4g']","makamu rai kamala harri kujadili vita vya ukrain rai tanzania,na msimamo nchi hiyo kutofungamana upand wowot katika mzozo huo https://t.co/mhe6vmksxq https://t.co/tuehncxh4g"
+2023-03-30 05:30:09+00:00,1641311830084579329,"Papa Francis alazwa hospitalini akiwa na maambukizo ya kupumua
+https://t.co/sDiywWP5eV https://t.co/kiOHQ846KR",bbcswahili,"['papa', 'franci', 'alazwa', 'hospitalini', 'akiwa', 'maambukizo', 'kupumua', 'https://t.co/sdiywwp5ev', 'https://t.co/kiohq846kr']",papa franci alazwa hospitalini akiwa maambukizo kupumua https://t.co/sdiywwp5ev https://t.co/kiohq846kr
+2023-03-30 05:06:44+00:00,1641305938559631363,"Je, Vladimir Putin anaweza kukamatwa kwa uhalifu wa kivita?
+https://t.co/1RZfbecJdD",bbcswahili,"['je,', 'vladimir', 'putin', 'anaweza', 'kukamatwa', 'uhalifu', 'kivita?', 'https://t.co/1rzfbecjdd']","je, vladimir putin anaweza kukamatwa uhalifu kivita? https://t.co/1rzfbecjdd"
+2023-03-30 04:30:06+00:00,1641296721245241349,"Paul Rusesabagina: Shujaa wa ‘Hotel Rwanda’ na mkosoaji wa serikali awasili Marekani
+https://t.co/DJmbq3ZMHL https://t.co/BZemgEEayn",bbcswahili,"['paul', 'rusesabagina:', 'shujaa', '‘hotel', 'rwanda’', 'mkosoaji', 'serikali', 'awasili', 'marekani', 'https://t.co/djmbq3zmhl', 'https://t.co/bzemgeeayn']",paul rusesabagina: shujaa ‘hotel rwanda’ mkosoaji serikali awasili marekani https://t.co/djmbq3zmhl https://t.co/bzemgeeayn
+2023-03-30 04:00:12+00:00,1641289195741417474,"Upinzani Kenya waapa kuendelea na maandamano leo huku  mabalozi  wakionyesha wasi wasi kuhusu ghasia na uharibifu wa mali
+https://t.co/72NJQskobE",bbcswahili,"['upinzani', 'kenya', 'waapa', 'kuendelea', 'maandamano', 'leo', 'huku', 'mabalozi', 'wakionyesha', 'wasi', 'wasi', 'kuhusu', 'ghasia', 'uharibifu', 'mali', 'https://t.co/72njqskob']",upinzani kenya waapa kuendelea maandamano leo huku mabalozi wakionyesha wasi wasi kuhusu ghasia uharibifu mali https://t.co/72njqskob
+2023-03-30 03:30:07+00:00,1641281622916956166,"Makamu wa Rais wa Marekani Kamala Harris awasili Tanzania
+https://t.co/7d3p6spqDC",bbcswahili,"['makamu', 'rai', 'marekani', 'kamala', 'harri', 'awasili', 'tanzania', 'https://t.co/7d3p6spqdc']",makamu rai marekani kamala harri awasili tanzania https://t.co/7d3p6spqdc
+2023-03-30 03:00:11+00:00,1641274089925926914,"Arsenal, Chelsea, Man City na Man United 'zatoana roho' usajili wa Declan Rice
+https://t.co/ziG2WVzyIM",bbcswahili,"['arsenal,', 'chelsea,', 'man', 'citi', 'man', 'unit', ""'zatoana"", ""roho'"", 'usajili', 'declan', 'rice', 'https://t.co/zig2wvzyim']","arsenal, chelsea, man citi man unit 'zatoana roho' usajili declan rice https://t.co/zig2wvzyim"
+2023-03-29 19:30:10+00:00,1641160843013308427,"""Nilifanya jambo nilipokuwa mdogo, na lilikuwa kosa,"" aliandika katika mojawapo ya barua hizo
+
+https://t.co/ID34ydpQSe",bbcswahili,"['""nilifanya', 'jambo', 'nilipokuwa', 'mdogo,', 'lilikuwa', 'kosa,""', 'aliandika', 'katika', 'mojawapo', 'barua', 'hizo', 'https://t.co/id34ydpqs']","""nilifanya jambo nilipokuwa mdogo, lilikuwa kosa,"" aliandika katika mojawapo barua hizo https://t.co/id34ydpqs"
+2023-03-29 19:00:22+00:00,1641153342058446864,"Je unajua ni kwanini Ukraine na Urusi hazijatumia ndege za kivita katika makabiliano yao huko UKraine?
+
+https://t.co/FOFyz3IMyT",bbcswahili,"['je', 'unajua', 'kwanini', 'ukrain', 'urusi', 'hazijatumia', 'ndege', 'kivita', 'katika', 'makabiliano', 'huko', 'ukraine?', 'https://t.co/fofyz3imyt']",je unajua kwanini ukrain urusi hazijatumia ndege kivita katika makabiliano huko ukraine? https://t.co/fofyz3imyt
+2023-03-29 18:38:03+00:00,1641147724044042280,"Manchester City bado wanamngoja kiungo wa kati wa Ujerumani Ilkay Gundogan kufanya uamuzi kuhusu mustakabali wake, huku Barcelona wakitamani kumsajili
+
+https://t.co/ilSprw6LNe",bbcswahili,"['manchest', 'citi', 'bado', 'wanamngoja', 'kiungo', 'kati', 'ujerumani', 'ilkay', 'gundogan', 'kufanya', 'uamuzi', 'kuhusu', 'mustakabali', 'wake,', 'huku', 'barcelona', 'wakitamani', 'kumsajili', 'https://t.co/ilsprw6ln']","manchest citi bado wanamngoja kiungo kati ujerumani ilkay gundogan kufanya uamuzi kuhusu mustakabali wake, huku barcelona wakitamani kumsajili https://t.co/ilsprw6ln"
+2023-03-29 18:00:10+00:00,1641138193633247232,"Kwanini Tanzania na Uganda zilie na ziwe na wasiwasi kwa maandamano ya Kenya?
+
+https://t.co/zYwNRo7sMF",bbcswahili,"['kwanini', 'tanzania', 'uganda', 'zili', 'ziw', 'wasiwasi', 'maandamano', 'kenya?', 'https://t.co/zywnro7smf']",kwanini tanzania uganda zili ziw wasiwasi maandamano kenya? https://t.co/zywnro7smf
+2023-03-29 17:30:10+00:00,1641130642007113751,"Mabaki ya kifaru adimu yawekwa kwenye maonesho Kenya
+https://t.co/6zQVKFj221 https://t.co/HdNSl6Ak45",bbcswahili,"['mabaki', 'kifaru', 'adimu', 'yawekwa', 'kweny', 'maonesho', 'kenya', 'https://t.co/6zqvkfj221', 'https://t.co/hdnsl6ak45']",mabaki kifaru adimu yawekwa kweny maonesho kenya https://t.co/6zqvkfj221 https://t.co/hdnsl6ak45
+2023-03-29 16:45:10+00:00,1641119315700113413,"Kocha Renard sasa kufunza timu ya soka ya wanawake Ufaransa baada ya kuondoka Saudia
+
+https://t.co/PwQlNrnGuE https://t.co/6ZhijLqnQL",bbcswahili,"['kocha', 'renard', 'sasa', 'kufunza', 'timu', 'soka', 'wanawak', 'ufaransa', 'baada', 'kuondoka', 'saudia', 'https://t.co/pwqlnrngu', 'https://t.co/6zhijlqnql']",kocha renard sasa kufunza timu soka wanawak ufaransa baada kuondoka saudia https://t.co/pwqlnrngu https://t.co/6zhijlqnql
+2023-03-29 16:40:08+00:00,1641118049414660098,"Gavana wa ngome ya Raila Odinga aliyesitisha maandamano abadili msimamo wake
+
+https://t.co/MGVKZw6r3U https://t.co/R4vKQZvAc7",bbcswahili,"['gavana', 'ngome', 'raila', 'odinga', 'aliyesitisha', 'maandamano', 'abadili', 'msimamo', 'https://t.co/mgvkzw6r3u', 'https://t.co/r4vkqzvac7']",gavana ngome raila odinga aliyesitisha maandamano abadili msimamo https://t.co/mgvkzw6r3u https://t.co/r4vkqzvac7
+2023-03-29 16:31:18+00:00,1641115828174168064,"""Baba yangu alisema: 'Sitaki kukuona tena. Wewe si mtoto wangu. Siwezi kuwa na mtoto kama wewe''
+
+https://t.co/n04XVCD3Tk",bbcswahili,"['""baba', 'alisema:', ""'sitaki"", 'kukuona', 'tena.', 'wew', 'si', 'mtoto', 'wangu.', 'siwezi', 'kuwa', 'mtoto', 'kama', ""wewe''"", 'https://t.co/n04xvcd3tk']","""baba alisema: 'sitaki kukuona tena. wew si mtoto wangu. siwezi kuwa mtoto kama wewe'' https://t.co/n04xvcd3tk"
+2023-03-29 16:00:10+00:00,1641107991523991553,"fahamu umuhimu wa mnyama huyu anayewindwa zaidi duniani
+
+https://t.co/5MKFgFAtrA",bbcswahili,"['fahamu', 'umuhimu', 'mnyama', 'huyu', 'anayewindwa', 'duniani', 'https://t.co/5mkfgfatra']",fahamu umuhimu mnyama huyu anayewindwa duniani https://t.co/5mkfgfatra
+2023-03-29 15:31:07+00:00,1641100680671682560,"'Kijana mdogo aliyefungwa jela kimakosa kwa miaka mingi zaidi Marekani' hivi karibuni alitoka gerezani na sasa ni mtu huru
+
+https://t.co/CzW3adpU2x?",bbcswahili,"[""'kijana"", 'mdogo', 'aliyefungwa', 'jela', 'kimakosa', 'miaka', 'mingi', ""marekani'"", 'hivi', 'karibuni', 'alitoka', 'gerezani', 'sasa', 'mtu', 'huru', 'https://t.co/czw3adpu2x?']",'kijana mdogo aliyefungwa jela kimakosa miaka mingi marekani' hivi karibuni alitoka gerezani sasa mtu huru https://t.co/czw3adpu2x?
+2023-03-29 15:30:39+00:00,1641100566301405184,"Utendakazi wa majasusi wa Urusi ni bora kuliko jeshi lake - Wataalam
+https://t.co/VsscU6j5Il https://t.co/cbdqkIYOJw",bbcswahili,"['utendakazi', 'majasusi', 'urusi', 'bora', 'kuliko', 'jeshi', 'lake', '-', 'wataalam', 'https://t.co/vsscu6j5il', 'https://t.co/cbdqkiyojw']",utendakazi majasusi urusi bora kuliko jeshi lake - wataalam https://t.co/vsscu6j5il https://t.co/cbdqkiyojw
+2023-03-29 15:00:20+00:00,1641092936271011844,"Gavana wa ngome ya Raila Odinga asitisha maandamano
+https://t.co/CCgvHgbYXn https://t.co/Adm6d9Xy7w",bbcswahili,"['gavana', 'ngome', 'raila', 'odinga', 'asitisha', 'maandamano', 'https://t.co/ccgvhgbyxn', 'https://t.co/adm6d9xy7w']",gavana ngome raila odinga asitisha maandamano https://t.co/ccgvhgbyxn https://t.co/adm6d9xy7w
+2023-03-29 14:42:43+00:00,1641088502572908544,"Fahamu kwanini licha ya jeshi la Urusi kuwa na ndege zenye uwezo mkubwa na vifaa bora haliwezi kufanya operesheni kamili ya anga Ukraine
+
+https://t.co/A5FCbXlopg",bbcswahili,"['fahamu', 'kwanini', 'licha', 'jeshi', 'la', 'urusi', 'kuwa', 'ndege', 'zeny', 'uwezo', 'mkubwa', 'vifaa', 'bora', 'haliwezi', 'kufanya', 'operesheni', 'kamili', 'anga', 'ukrain', 'https://t.co/a5fcbxlopg']",fahamu kwanini licha jeshi la urusi kuwa ndege zeny uwezo mkubwa vifaa bora haliwezi kufanya operesheni kamili anga ukrain https://t.co/a5fcbxlopg
+2023-03-29 14:30:19+00:00,1641085381243174913,"Urusi inasema vita vya Ukraine vitakuwa vya muda mrefu na itamuunga mkono rais Putin
+https://t.co/Fai3lTbdU0 https://t.co/xN5kDeParV",bbcswahili,"['urusi', 'inasema', 'vita', 'vya', 'ukrain', 'vitakuwa', 'vya', 'muda', 'mrefu', 'itamuunga', 'mkono', 'rai', 'putin', 'https://t.co/fai3ltbdu0', 'https://t.co/xn5kdeparv']",urusi inasema vita vya ukrain vitakuwa vya muda mrefu itamuunga mkono rai putin https://t.co/fai3ltbdu0 https://t.co/xn5kdeparv
+2023-03-29 14:00:06+00:00,1641077778144452608,"""Nilipopewa matokeo yangu , cha ajabu ni kuwa sikuwa na wasiwasi wala uwoga'' 
+
+https://t.co/u2Yf4WYR7g",bbcswahili,"['""nilipopewa', 'matokeo', ',', 'cha', 'ajabu', 'kuwa', 'sikuwa', 'wasiwasi', 'wala', ""uwoga''"", 'https://t.co/u2yf4wyr7g']","""nilipopewa matokeo , cha ajabu kuwa sikuwa wasiwasi wala uwoga'' https://t.co/u2yf4wyr7g"
+2023-03-29 13:30:12+00:00,1641070254569693194,"Italia yapiga marufuku nyama inayokuzwa katika maabara ili kulinda chakula cha asili
+https://t.co/EhGEziyM3d https://t.co/YxIvwn9Yvz",bbcswahili,"['italia', 'yapiga', 'marufuku', 'nyama', 'inayokuzwa', 'katika', 'maabara', 'ili', 'kulinda', 'chakula', 'cha', 'asili', 'https://t.co/ehgeziym3d', 'https://t.co/yxivwn9yvz']",italia yapiga marufuku nyama inayokuzwa katika maabara ili kulinda chakula cha asili https://t.co/ehgeziym3d https://t.co/yxivwn9yvz
+2023-03-29 13:00:10+00:00,1641062696064897026,"Je, ni rekodi gani nyingine za mabao anazokaribia kuziweka?
+
+https://t.co/iGyTIShZUE",bbcswahili,"['je,', 'rekodi', 'gani', 'nyingin', 'mabao', 'anazokaribia', 'kuziweka?', 'https://t.co/igytishzu']","je, rekodi gani nyingin mabao anazokaribia kuziweka? https://t.co/igytishzu"
+2023-03-29 12:33:54+00:00,1641056085216747520,"Ghana yataka jaribio la kujiua kuwa halali
+https://t.co/ccI551IRcu https://t.co/LqEB6CiWq5",bbcswahili,"['ghana', 'yataka', 'jaribio', 'la', 'kujiua', 'kuwa', 'halali', 'https://t.co/cci551ircu', 'https://t.co/lqeb6ciwq5']",ghana yataka jaribio la kujiua kuwa halali https://t.co/cci551ircu https://t.co/lqeb6ciwq5
+2023-03-29 12:00:09+00:00,1641047589196816385,"'Kwa sasa ndege aina ya F-16 haziwezi kuisaidia Ukraine' - Marekani
+https://t.co/jYb33lVOrx https://t.co/Jn6unncMMi",bbcswahili,"[""'kwa"", 'sasa', 'ndege', 'aina', 'f-16', 'haziwezi', 'kuisaidia', ""ukraine'"", '-', 'marekani', 'https://t.co/jyb33lvorx', 'https://t.co/jn6unncmmi']",'kwa sasa ndege aina f-16 haziwezi kuisaidia ukraine' - marekani https://t.co/jyb33lvorx https://t.co/jn6unncmmi
+2023-03-29 11:30:06+00:00,1641040026648674305,"Viungo vya albino vyaibiwa makaburini, Msumbiji
+https://t.co/YsleeM3IEI https://t.co/Cm0jWMmKmM",bbcswahili,"['viungo', 'vya', 'albino', 'vyaibiwa', 'makaburini,', 'msumbiji', 'https://t.co/ysleem3iei', 'https://t.co/cm0jwmmkmm']","viungo vya albino vyaibiwa makaburini, msumbiji https://t.co/ysleem3iei https://t.co/cm0jwmmkmm"
+2023-03-29 11:15:07+00:00,1641036258276245507,"Jinsi matukio ya mashambulizi ya risasi yalivyoisukuma Israel kuwapa bunduki zaidi raia
+
+https://t.co/yCWyB0rrSj",bbcswahili,"['jinsi', 'matukio', 'mashambulizi', 'risasi', 'yalivyoisukuma', 'israel', 'kuwapa', 'bunduki', 'raia', 'https://t.co/ycwyb0rrsj']",jinsi matukio mashambulizi risasi yalivyoisukuma israel kuwapa bunduki raia https://t.co/ycwyb0rrsj
+2023-03-29 10:32:54+00:00,1641025634196496384,"Zambia yaonya dhidi ya maandamano dhidi ya wapenzi wa jinsia moja wakati wa ziara ya Harris
+https://t.co/omntoV0r07 https://t.co/ejhZLdwKv7",bbcswahili,"['zambia', 'yaonya', 'dhidi', 'maandamano', 'dhidi', 'wapenzi', 'jinsia', 'moja', 'wakati', 'ziara', 'harri', 'https://t.co/omntov0r07', 'https://t.co/ejhzldwkv7']",zambia yaonya dhidi maandamano dhidi wapenzi jinsia moja wakati ziara harri https://t.co/omntov0r07 https://t.co/ejhzldwkv7
+2023-03-29 09:36:56+00:00,1641011550025646081,"Kwanini ndoa zinakithiri wakati Ramadhani? 
+https://t.co/k86DqM0cdg",bbcswahili,"['kwanini', 'ndoa', 'zinakithiri', 'wakati', 'ramadhani?', 'https://t.co/k86dqm0cdg']",kwanini ndoa zinakithiri wakati ramadhani? https://t.co/k86dqm0cdg
+2023-03-29 09:00:13+00:00,1641002310053552128,"Wabunge wa Lesotho kujadili kurejesha sehemu za Afrika Kusini kuwa sehemu ya nchi hiyo
+https://t.co/mOk5cWd86d https://t.co/tQ5cj4H4Sz",bbcswahili,"['wabung', 'lesotho', 'kujadili', 'kurejesha', 'sehemu', 'afrika', 'kusini', 'kuwa', 'sehemu', 'nchi', 'hiyo', 'https://t.co/mok5cwd86d', 'https://t.co/tq5cj4h4sz']",wabung lesotho kujadili kurejesha sehemu afrika kusini kuwa sehemu nchi hiyo https://t.co/mok5cwd86d https://t.co/tq5cj4h4sz
+2023-03-29 08:00:11+00:00,1640987201516257280,"Matamshi ya Makamu wa rais wa Marekani Harris kuunga mkono haki za LGBTQ yamhamakisha Spika wa Ghana
+https://t.co/YVX1PiKqpw https://t.co/ywrAuBD6b3",bbcswahili,"['matamshi', 'makamu', 'rai', 'marekani', 'harri', 'kuunga', 'mkono', 'haki', 'lgbtq', 'yamhamakisha', 'spika', 'ghana', 'https://t.co/yvx1pikqpw', 'https://t.co/ywraubd6b3']",matamshi makamu rai marekani harri kuunga mkono haki lgbtq yamhamakisha spika ghana https://t.co/yvx1pikqpw https://t.co/ywraubd6b3
+2023-03-29 07:40:46+00:00,1640982315785437185,"Mtalii aliyepiga picha akiwa uchi katika mlima Agung afukuzwa Indonesia 
+https://t.co/VgmPzXBH2F https://t.co/9UKSxZa7yV",bbcswahili,"['mtalii', 'aliyepiga', 'picha', 'akiwa', 'uchi', 'katika', 'mlima', 'agung', 'afukuzwa', 'indonesia', 'https://t.co/vgmpzxbh2f', 'https://t.co/9uksxza7yv']",mtalii aliyepiga picha akiwa uchi katika mlima agung afukuzwa indonesia https://t.co/vgmpzxbh2f https://t.co/9uksxza7yv
+2023-03-29 07:00:13+00:00,1640972110699929601,"Botswana yakanusha madai ya njama ya kumuua kiongozi wa zamani Khama
+https://t.co/HPQGbOzQmx https://t.co/rY4eTTBBOw",bbcswahili,"['botswana', 'yakanusha', 'madai', 'njama', 'kumuua', 'kiongozi', 'zamani', 'khama', 'https://t.co/hpqgbozqmx', 'https://t.co/ry4ettbbow']",botswana yakanusha madai njama kumuua kiongozi zamani khama https://t.co/hpqgbozqmx https://t.co/ry4ettbbow
+2023-03-29 06:22:36+00:00,1640962645103607809,"Jinsi mabondo ya Sangara yatakavyoipaisha Tanzania kimataifa 
+https://t.co/JbbgrKAq0s",bbcswahili,"['jinsi', 'mabondo', 'sangara', 'yatakavyoipaisha', 'tanzania', 'kimataifa', 'https://t.co/jbbgrkaq0']",jinsi mabondo sangara yatakavyoipaisha tanzania kimataifa https://t.co/jbbgrkaq0
+2023-03-29 05:02:57+00:00,1640942599136587777,"Mtoto wa tajiri Farouk, asema ""Ilikuwa ajali tu,tukio la kufanya ngono ambalo lilimalizika vibaya,""
+https://t.co/pVlwIqzRba",bbcswahili,"['mtoto', 'tajiri', 'farouk,', 'asema', '""ilikuwa', 'ajali', 'tu,tukio', 'la', 'kufanya', 'ngono', 'ambalo', 'lilimalizika', 'vibaya,""', 'https://t.co/pvlwiqzrba']","mtoto tajiri farouk, asema ""ilikuwa ajali tu,tukio la kufanya ngono ambalo lilimalizika vibaya,"" https://t.co/pvlwiqzrba"
+2023-03-29 04:00:56+00:00,1640926991833546753,"'Mungu aliniumba na anajua kwanini mimi ni mpenzi wa jinsia moja'
+https://t.co/pFo0vMgNaH",bbcswahili,"[""'mungu"", 'aliniumba', 'anajua', 'kwanini', 'mimi', 'mpenzi', 'jinsia', ""moja'"", 'https://t.co/pfo0vmgnah']",'mungu aliniumba anajua kwanini mimi mpenzi jinsia moja' https://t.co/pfo0vmgnah
+2023-03-29 03:30:09+00:00,1640919244803039235,"Hivi ndivyo maandamano ya Kenya yanavyoweza kuziathiri Tanzania na Uganda
+https://t.co/iaR9NAejyL",bbcswahili,"['hivi', 'ndivyo', 'maandamano', 'kenya', 'yanavyoweza', 'kuziathiri', 'tanzania', 'uganda', 'https://t.co/iar9naejyl']",hivi ndivyo maandamano kenya yanavyoweza kuziathiri tanzania uganda https://t.co/iar9naejyl
+2023-03-29 03:00:07+00:00,1640911687539671042,"Wakati ikisaka tajiri mpya Manchester United yamtega Harry Kane kwa £80m huku Rashford mkataba haueleweki
+https://t.co/K0vUpNL7gB",bbcswahili,"['wakati', 'ikisaka', 'tajiri', 'mpya', 'manchest', 'unit', 'yamtega', 'harri', 'kane', '£80m', 'huku', 'rashford', 'mkataba', 'haueleweki', 'https://t.co/k0vupnl7gb']",wakati ikisaka tajiri mpya manchest unit yamtega harri kane £80m huku rashford mkataba haueleweki https://t.co/k0vupnl7gb
+2023-03-28 19:04:59+00:00,1640792115260055552,"""kama hujui unatoka wapi, hujui uendako""
+
+https://t.co/XLVaGV5bUN",bbcswahili,"['""kama', 'hujui', 'unatoka', 'wapi,', 'hujui', 'uendako""', 'https://t.co/xlvagv5bun']","""kama hujui unatoka wapi, hujui uendako"" https://t.co/xlvagv5bun"
+2023-03-28 18:30:07+00:00,1640783341661110272,"Je silaha za urani zilizorutubishwa zina hatari gani? jifahamishe
+
+https://t.co/ZFKBN2f68k",bbcswahili,"['je', 'silaha', 'urani', 'zilizorutubishwa', 'zina', 'hatari', 'gani?', 'jifahamish', 'https://t.co/zfkbn2f68k']",je silaha urani zilizorutubishwa zina hatari gani? jifahamish https://t.co/zfkbn2f68k
+2023-03-28 18:00:46+00:00,1640775955546267649,"Kulingana na Korea kaskazini silaha hizo zinaweza kurushwa hadi Marekani
+
+https://t.co/17roEIl5Ge",bbcswahili,"['kulingana', 'korea', 'kaskazini', 'silaha', 'hizo', 'zinaweza', 'kurushwa', 'hadi', 'marekani', 'https://t.co/17roeil5g']",kulingana korea kaskazini silaha hizo zinaweza kurushwa hadi marekani https://t.co/17roeil5g
+2023-03-28 17:00:10+00:00,1640760703056314376,"Mshambuliaji wa Arsenal  na England Bukayo Saka, 21, atapokea takriban £15m kwa msimu atakapotia saini mkataba wake mpya na Arsenal
+
+https://t.co/KjYbwEukUB https://t.co/yWUrYtimCe",bbcswahili,"['mshambuliaji', 'arsen', 'england', 'bukayo', 'saka,', '21,', 'atapokea', 'takriban', '£15m', 'msimu', 'atakapotia', 'saini', 'mkataba', 'mpya', 'arsen', 'https://t.co/kjybweukub', 'https://t.co/ywurytimc']","mshambuliaji arsen england bukayo saka, 21, atapokea takriban £15m msimu atakapotia saini mkataba mpya arsen https://t.co/kjybweukub https://t.co/ywurytimc"
+2023-03-28 16:45:20+00:00,1640756972113862658,"Maandamano Kenya: Marekani yatoa tahadhari ya usalama kwa raia wake
+
+https://t.co/9WKHyqwrG8 https://t.co/eqnM3jJPC9",bbcswahili,"['maandamano', 'kenya:', 'marekani', 'yatoa', 'tahadhari', 'usalama', 'raia', 'https://t.co/9wkhyqwrg8', 'https://t.co/eqnm3jjpc9']",maandamano kenya: marekani yatoa tahadhari usalama raia https://t.co/9wkhyqwrg8 https://t.co/eqnm3jjpc9
+2023-03-28 16:30:15+00:00,1640753177724157964,"Tazama video  ya Raila akilaani uvamizi wa kampuni yake na shamba la rais mstaafu Uhuru Kenyatta wakati wa maandamano
+
+https://t.co/TngnuIFvLO",bbcswahili,"['tazama', 'video', 'raila', 'akilaani', 'uvamizi', 'kampuni', 'shamba', 'la', 'rai', 'mstaafu', 'uhuru', 'kenyatta', 'wakati', 'maandamano', 'https://t.co/tngnuifvlo']",tazama video raila akilaani uvamizi kampuni shamba la rai mstaafu uhuru kenyatta wakati maandamano https://t.co/tngnuifvlo
+2023-03-28 16:00:25+00:00,1640745669337001984,"Viongozi wa dini wasisitiza amani nchini Kenya
+https://t.co/DtGd5aj41K https://t.co/5KQ6tvdshf",bbcswahili,"['viongozi', 'dini', 'wasisitiza', 'amani', 'nchini', 'kenya', 'https://t.co/dtgd5aj41k', 'https://t.co/5kq6tvdshf']",viongozi dini wasisitiza amani nchini kenya https://t.co/dtgd5aj41k https://t.co/5kq6tvdshf
+2023-03-28 15:30:17+00:00,1640738085058093056,"Rais Ruto asema hatoruhusu kutojali kuwa sehemu ya mazungumzo ya nchi
+https://t.co/0OXyEWvxp9 https://t.co/hbXYPGD9yk",bbcswahili,"['rai', 'ruto', 'asema', 'hatoruhusu', 'kutojali', 'kuwa', 'sehemu', 'mazungumzo', 'nchi', 'https://t.co/0oxyewvxp9', 'https://t.co/hbxypgd9yk']",rai ruto asema hatoruhusu kutojali kuwa sehemu mazungumzo nchi https://t.co/0oxyewvxp9 https://t.co/hbxypgd9yk
+2023-03-28 15:00:42+00:00,1640730641351290880,"Nyumba ya babu yake naibu wa rais wa Marekani yatafutwa Zambia
+https://t.co/3qi462mM1J https://t.co/jbxRvabiQx",bbcswahili,"['nyumba', 'babu', 'naibu', 'rai', 'marekani', 'yatafutwa', 'zambia', 'https://t.co/3qi462mm1j', 'https://t.co/jbxrvabiqx']",nyumba babu naibu rai marekani yatafutwa zambia https://t.co/3qi462mm1j https://t.co/jbxrvabiqx
+2023-03-28 14:30:06+00:00,1640722938344140800,"Korea Kaskazini yasema silaha zake za nyuklia ni kuziadhibu Marekani na Korea Kusini kwa kufanya mazoezi yao makubwa zaidi ya kijeshi pamoja kwa miaka mingi.
+
+https://t.co/7MV0lYdyXv",bbcswahili,"['korea', 'kaskazini', 'yasema', 'silaha', 'nyuklia', 'kuziadhibu', 'marekani', 'korea', 'kusini', 'kufanya', 'mazoezi', 'makubwa', 'kijeshi', 'pamoja', 'miaka', 'mingi.', 'https://t.co/7mv0lydyxv']",korea kaskazini yasema silaha nyuklia kuziadhibu marekani korea kusini kufanya mazoezi makubwa kijeshi pamoja miaka mingi. https://t.co/7mv0lydyxv
+2023-03-28 14:01:19+00:00,1640715696442343425,"Makaburi ya Algeria yalivyonifunza kuhusu asili yangu
+
+https://t.co/r9o5Vo4ixR",bbcswahili,"['makaburi', 'algeria', 'yalivyonifunza', 'kuhusu', 'asili', 'https://t.co/r9o5vo4ixr']",makaburi algeria yalivyonifunza kuhusu asili https://t.co/r9o5vo4ixr
+2023-03-28 13:30:02+00:00,1640707823469207554,"Polisi wa Kenya wachunguzwa kwa kushindwa kulinda mali za raia
+https://t.co/2lenpF5OnP https://t.co/ZemgF0F1FV",bbcswahili,"['polisi', 'kenya', 'wachunguzwa', 'kushindwa', 'kulinda', 'mali', 'raia', 'https://t.co/2lenpf5onp', 'https://t.co/zemgf0f1fv']",polisi kenya wachunguzwa kushindwa kulinda mali raia https://t.co/2lenpf5onp https://t.co/zemgf0f1fv
+2023-03-28 13:00:14+00:00,1640700323856629761,"Urusi yaonya Uingereza kutosambaza makombora ya urani iliyorutubishwa kwa Ukraine, ikisema yana ""jumuisha nyuklia"". 
+
+https://t.co/HFPypxwNC3",bbcswahili,"['urusi', 'yaonya', 'uingereza', 'kutosambaza', 'makombora', 'urani', 'iliyorutubishwa', 'ukraine,', 'ikisema', 'yana', '""jumuisha', 'nyuklia"".', 'https://t.co/hfpypxwnc3']","urusi yaonya uingereza kutosambaza makombora urani iliyorutubishwa ukraine, ikisema yana ""jumuisha nyuklia"". https://t.co/hfpypxwnc3"
+2023-03-28 12:30:07+00:00,1640692743964852224,"Angélique Kidjo ashinda tuzo ya muziki ya 'Polar'
+https://t.co/hadCkSrFdI https://t.co/JMRWlaXicO",bbcswahili,"['angéliqu', 'kidjo', 'ashinda', 'tuzo', 'muziki', ""'polar'"", 'https://t.co/hadcksrfdi', 'https://t.co/jmrwlaxico']",angéliqu kidjo ashinda tuzo muziki 'polar' https://t.co/hadcksrfdi https://t.co/jmrwlaxico
+2023-03-28 12:00:13+00:00,1640685217726840834,"Polisi wa Kenya watembelea shamba la aliyekuwa rais baada ya uvamizi
+https://t.co/ei7A6BPCqL https://t.co/MvZib15PwY",bbcswahili,"['polisi', 'kenya', 'watembelea', 'shamba', 'la', 'aliyekuwa', 'rai', 'baada', 'uvamizi', 'https://t.co/ei7a6bpcql', 'https://t.co/mvzib15pwi']",polisi kenya watembelea shamba la aliyekuwa rai baada uvamizi https://t.co/ei7a6bpcql https://t.co/mvzib15pwi
+2023-03-28 11:30:09+00:00,1640677651256954881,"Wasanii wa Tanzania wang'ara katika orodha ya miziki anayosikiliza Kamala Harrison
+https://t.co/550c8tsSFx https://t.co/i7jVn1FJoJ",bbcswahili,"['wasanii', 'tanzania', ""wang'ara"", 'katika', 'orodha', 'miziki', 'anayosikiliza', 'kamala', 'harrison', 'https://t.co/550c8tssfx', 'https://t.co/i7jvn1fjoj']",wasanii tanzania wang'ara katika orodha miziki anayosikiliza kamala harrison https://t.co/550c8tssfx https://t.co/i7jvn1fjoj
+2023-03-28 10:30:11+00:00,1640662562663456769,"Afisa polisi ahukumiwa kifungo cha miaka 10 kwa kumuua muandamaji
+https://t.co/ApGqoCphLl https://t.co/avSpMYz3Z9",bbcswahili,"['afisa', 'polisi', 'ahukumiwa', 'kifungo', 'cha', 'miaka', '10', 'kumuua', 'muandamaji', 'https://t.co/apgqocphl', 'https://t.co/avspmyz3z9']",afisa polisi ahukumiwa kifungo cha miaka 10 kumuua muandamaji https://t.co/apgqocphl https://t.co/avspmyz3z9
+2023-03-28 10:05:14+00:00,1640656282032959490,"Tume ya Umoja wa Afrika yaomba utulivu Kenya huku maandamano dhidi ya serikali yakiendelea
+https://t.co/qJRXkBWcE2 https://t.co/xtH0T3b9gm",bbcswahili,"['tume', 'umoja', 'afrika', 'yaomba', 'utulivu', 'kenya', 'huku', 'maandamano', 'dhidi', 'serikali', 'yakiendelea', 'https://t.co/qjrxkbwce2', 'https://t.co/xth0t3b9gm']",tume umoja afrika yaomba utulivu kenya huku maandamano dhidi serikali yakiendelea https://t.co/qjrxkbwce2 https://t.co/xth0t3b9gm
+2023-03-28 09:30:06+00:00,1640647443124482048,"Chuo Kikuu SAUT chabatilisha shahada 162 za madaktari
+https://t.co/PMuGI2Xot5 https://t.co/Z8PEdR6XJa",bbcswahili,"['chuo', 'kikuu', 'saut', 'chabatilisha', 'shahada', '162', 'madaktari', 'https://t.co/pmugi2xot5', 'https://t.co/z8pedr6xja']",chuo kikuu saut chabatilisha shahada 162 madaktari https://t.co/pmugi2xot5 https://t.co/z8pedr6xja
+2023-03-28 09:00:07+00:00,1640639894618816514,"Nchi 10 ambazo watu wanaishi muda mrefu zaidi na kile tunachoweza kujifunza  
+https://t.co/QXeTmZMrX5",bbcswahili,"['nchi', '10', 'ambazo', 'watu', 'wanaishi', 'muda', 'mrefu', 'kile', 'tunachoweza', 'kujifunza', 'https://t.co/qxetmzmrx5']",nchi 10 ambazo watu wanaishi muda mrefu kile tunachoweza kujifunza https://t.co/qxetmzmrx5
+2023-03-28 08:00:42+00:00,1640624945339179009,"Tazama kifaa hiki cha kubusu kwa wenza walio mbali
+https://t.co/YR4Ij93DNk",bbcswahili,"['tazama', 'kifaa', 'hiki', 'cha', 'kubusu', 'wenza', 'walio', 'mbali', 'https://t.co/yr4ij93dnk']",tazama kifaa hiki cha kubusu wenza walio mbali https://t.co/yr4ij93dnk
+2023-03-28 07:30:05+00:00,1640617238376923136,"Humza Yousaf: Kiongozi wa kwanza kutoka makabila madogo  kuongoza chama kikuu Scotland
+https://t.co/W0jDe0L8rq https://t.co/k8Bo11D1fl",bbcswahili,"['humza', 'yousaf:', 'kiongozi', 'kwanza', 'kutoka', 'makabila', 'madogo', 'kuongoza', 'chama', 'kikuu', 'scotland', 'https://t.co/w0jde0l8rq', 'https://t.co/k8bo11d1fl']",humza yousaf: kiongozi kwanza kutoka makabila madogo kuongoza chama kikuu scotland https://t.co/w0jde0l8rq https://t.co/k8bo11d1fl
+2023-03-28 07:06:13+00:00,1640611233693925376,"Hatari: Tazama jinsi  mtu huyu nchini DRC atlivyotumia mikono mitupu kuwaokoa wachimbaji dhahabu waliokuwa wamenaswa kwenye udongo
+https://t.co/K4gRdRCrP6 https://t.co/QH2uwzo4Ge",bbcswahili,"['hatari:', 'tazama', 'jinsi', 'mtu', 'huyu', 'nchini', 'drc', 'atlivyotumia', 'mikono', 'mitupu', 'kuwaokoa', 'wachimbaji', 'dhahabu', 'waliokuwa', 'wamenaswa', 'kweny', 'udongo', 'https://t.co/k4grdrcrp6', 'https://t.co/qh2uwzo4g']",hatari: tazama jinsi mtu huyu nchini drc atlivyotumia mikono mitupu kuwaokoa wachimbaji dhahabu waliokuwa wamenaswa kweny udongo https://t.co/k4grdrcrp6 https://t.co/qh2uwzo4g
+2023-03-28 06:30:11+00:00,1640602162630647811,"Shujaa wa  filamu ya ‘Hotel Rwanda’ atua Qatar baada ya kuachiliwa huru
+https://t.co/sbHG7l3BOL https://t.co/JjKiKrAZi8",bbcswahili,"['shujaa', 'filamu', '‘hotel', 'rwanda’', 'atua', 'qatar', 'baada', 'kuachiliwa', 'huru', 'https://t.co/sbhg7l3bol', 'https://t.co/jjkikrazi8']",shujaa filamu ‘hotel rwanda’ atua qatar baada kuachiliwa huru https://t.co/sbhg7l3bol https://t.co/jjkikrazi8
+2023-03-28 06:05:26+00:00,1640595935842451457,"Bahati ya mtende?Mchimba dhahabu wa Australia apata jiwe la kilo 4.6 la dhababu
+https://t.co/lRL38C4aTz https://t.co/pwRPqYfnvE",bbcswahili,"['bahati', 'mtende?mchimba', 'dhahabu', 'australia', 'apata', 'jiw', 'la', 'kilo', '4.6', 'la', 'dhababu', 'https://t.co/lrl38c4atz', 'https://t.co/pwrpqyfnv']",bahati mtende?mchimba dhahabu australia apata jiw la kilo 4.6 la dhababu https://t.co/lrl38c4atz https://t.co/pwrpqyfnv
+2023-03-28 05:30:04+00:00,1640587034757562368,"Maandamano ya Israel: Waziri Mkuu Netanyahu achelewesha mageuzi ya kisheria baada ya siku ya mgomo
+https://t.co/Qf9b9hSbz2 https://t.co/3gNeW94gKd",bbcswahili,"['maandamano', 'israel:', 'waziri', 'mkuu', 'netanyahu', 'achelewesha', 'mageuzi', 'kisheria', 'baada', 'siku', 'mgomo', 'https://t.co/qf9b9hsbz2', 'https://t.co/3gnew94gkd']",maandamano israel: waziri mkuu netanyahu achelewesha mageuzi kisheria baada siku mgomo https://t.co/qf9b9hsbz2 https://t.co/3gnew94gkd
+2023-03-28 05:15:02+00:00,1640583252606943232,"Humza Yousaf, kiongozi mpya wa   SNP ni nani?
+https://t.co/TEyaywPdbd",bbcswahili,"['humza', 'yousaf,', 'kiongozi', 'mpya', 'snp', 'nani?', 'https://t.co/teyaywpdbd']","humza yousaf, kiongozi mpya snp nani? https://t.co/teyaywpdbd"
+2023-03-28 04:30:09+00:00,1640571957866291202,"Sita wauawa wakiwemo watoto  watatu katika shambulizi la bunduki shuleni nchini Marekani 
+https://t.co/ZcrRGywp8b https://t.co/q3QRIlwLTe",bbcswahili,"['sita', 'wauawa', 'wakiwemo', 'watoto', 'watatu', 'katika', 'shambulizi', 'la', 'bunduki', 'shuleni', 'nchini', 'marekani', 'https://t.co/zcrrgywp8b', 'https://t.co/q3qrilwlt']",sita wauawa wakiwemo watoto watatu katika shambulizi la bunduki shuleni nchini marekani https://t.co/zcrrgywp8b https://t.co/q3qrilwlt
+2023-03-28 04:00:11+00:00,1640564414981062656,"Majaribio mfululizo ya makombora ya Korea Kaskazini yana maana gani?
+https://t.co/gE2tFM3DNM",bbcswahili,"['majaribio', 'mfululizo', 'makombora', 'korea', 'kaskazini', 'yana', 'maana', 'gani?', 'https://t.co/ge2tfm3dnm']",majaribio mfululizo makombora korea kaskazini yana maana gani? https://t.co/ge2tfm3dnm
+2023-03-28 03:30:05+00:00,1640556842202824706,"Kiongozi wa upinzani Kenya Raila Odinga asema yuko tayari kuzungumza na Rais Ruto lakini kwa masharti.
+https://t.co/12TpwS41BP",bbcswahili,"['kiongozi', 'upinzani', 'kenya', 'raila', 'odinga', 'asema', 'yuko', 'tayari', 'kuzungumza', 'rai', 'ruto', 'lakini', 'masharti.', 'https://t.co/12tpws41bp']",kiongozi upinzani kenya raila odinga asema yuko tayari kuzungumza rai ruto lakini masharti. https://t.co/12tpws41bp
+2023-03-28 03:00:14+00:00,1640549327440322561,"Wakati Man City ikigoma kumuuza Phillips, Chelsea 'wahaha' na Kante wao
+https://t.co/gpJeMtwypD",bbcswahili,"['wakati', 'man', 'citi', 'ikigoma', 'kumuuza', 'phillips,', 'chelsea', ""'wahaha'"", 'kant', 'wao', 'https://t.co/gpjemtwypd']","wakati man citi ikigoma kumuuza phillips, chelsea 'wahaha' kant wao https://t.co/gpjemtwypd"
+2023-03-27 19:48:11+00:00,1640440598548062214,"Sayari kubwa ya kutosha kuharibu jiji kwa mfano Dar es Salaam ama Nairobi iwapo itaanguka yagunduliwa
+
+https://t.co/duuEpwtxZw",bbcswahili,"['sayari', 'kubwa', 'kutosha', 'kuharibu', 'jiji', 'mfano', 'dar', 'es', 'salaam', 'ama', 'nairobi', 'iwapo', 'itaanguka', 'yagunduliwa', 'https://t.co/duuepwtxzw']",sayari kubwa kutosha kuharibu jiji mfano dar es salaam ama nairobi iwapo itaanguka yagunduliwa https://t.co/duuepwtxzw
+2023-03-27 19:00:14+00:00,1640428531380305925,"Je kifaa hiki ndio suluhu ya wapenzi walio mbali
+
+https://t.co/F3WnDOiQ4v",bbcswahili,"['je', 'kifaa', 'hiki', 'ndio', 'suluhu', 'wapenzi', 'walio', 'mbali', 'https://t.co/f3wndoiq4v']",je kifaa hiki ndio suluhu wapenzi walio mbali https://t.co/f3wndoiq4v
+2023-03-27 18:30:07+00:00,1640420953304776718,"Harakati za Raila Odinga na wenzake kuongoza maandamano katikati ya mji wa Nairobi zaambulia patupu
+
+https://t.co/PoFLf4GehJ",bbcswahili,"['harakati', 'raila', 'odinga', 'wenzak', 'kuongoza', 'maandamano', 'katikati', 'mji', 'nairobi', 'zaambulia', 'patupu', 'https://t.co/poflf4gehj']",harakati raila odinga wenzak kuongoza maandamano katikati mji nairobi zaambulia patupu https://t.co/poflf4gehj
+2023-03-27 18:05:42+00:00,1640414807542095877,"Fahamu vyakula ambavyo vikichanganyika tumboni mwako hugeuka na kuwa sumu
+
+https://t.co/pSgZ430OaZ",bbcswahili,"['fahamu', 'vyakula', 'ambavyo', 'vikichanganyika', 'tumboni', 'mwako', 'hugeuka', 'kuwa', 'sumu', 'https://t.co/psgz430oaz']",fahamu vyakula ambavyo vikichanganyika tumboni mwako hugeuka kuwa sumu https://t.co/psgz430oaz
+2023-03-27 17:30:13+00:00,1640405877998993438,"Chelsea wako tayari kutoa euro milioni 100 kumnunua mshambuliaji wa Nigeria Victor Osimhen, 24, wa Napoli.
+
+https://t.co/dpzaypouqw",bbcswahili,"['chelsea', 'wako', 'tayari', 'kutoa', 'euro', 'milioni', '100', 'kumnunua', 'mshambuliaji', 'nigeria', 'victor', 'osimhen,', '24,', 'napoli.', 'https://t.co/dpzaypouqw']","chelsea wako tayari kutoa euro milioni 100 kumnunua mshambuliaji nigeria victor osimhen, 24, napoli. https://t.co/dpzaypouqw"
